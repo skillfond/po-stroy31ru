@@ -86,8 +86,6 @@ const images: IImages[] = [
           '/images/building-store-img-2.webp',
           '/images/building-store-img-3.webp'
         ],
-        title: 'Здание2 под магазин',
-        width: '98.7%',
       },
 
 

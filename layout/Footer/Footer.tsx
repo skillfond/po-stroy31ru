@@ -158,7 +158,7 @@ const Footer: React.FC = () => {
 				</li>
 				<li>
 					<p className={styles.footer__copyright}>
-						&copy; {new Date().getFullYear()} Строительно-отделочная компания Терминал-М. 
+						&copy; {new Date().getFullYear()} Строительно-отделочная компания ООО "ПоСтрой". 
 						Все права защищены.
 					</p>
 				</li>

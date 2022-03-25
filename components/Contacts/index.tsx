@@ -47,7 +47,7 @@ const Contacts: React.FC = () => {
 					<li>
 						<a
 							className={styles.contacts__link}
-							href='mailto:bel.terminalm@yandex.ru'>
+							href='mailto:postroy31@yandex.ru'>
 							<span>
 								<Image
 									src='/images/email-icon.webp'
@@ -66,7 +66,7 @@ const Contacts: React.FC = () => {
 									Email
 								</span>
 								<p className={styles.contacts__infoText}>
-									bel.terminalm@yandex.ru
+								    postroy31@yandex.ru
 								</p>
 							</article>
 						</a>

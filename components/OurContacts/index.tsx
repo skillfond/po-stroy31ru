@@ -14,7 +14,7 @@ const OurContacts: React.FC = () => {
 							Наши контакты
 						</h2>
 						<p className={styles.ourContacts__text}>
-						Желание заказчика — закон для компании «Терминал-М». 
+						Желание заказчика — закон для компании «ООО "ПоСтрой"». 
 						Свяжитесь с нами и узнайте, что мы можем сделать для вас.
 						Если у вас есть вопросы, пожалуйста, не стесняйтесь обращаться к нам.
 						</p>
@@ -75,7 +75,7 @@ const OurContacts: React.FC = () => {
 							<li>
 								<a
 									className={styles.ourContacts__link}
-									href='mailto:bel.terminalm@yandex.ru'>
+									href='mailto:postroy31@yandex.ru'>
 									<span>
 										<Image
 											src='/images/email-icon.webp'
@@ -94,7 +94,7 @@ const OurContacts: React.FC = () => {
 											Email
 										</span>
 										<p className={styles.ourContacts__infoText}>
-											bel.terminalm@yandex.ru
+										postroy31@yandex.ru
 										</p>
 									</article>
 								</a>
