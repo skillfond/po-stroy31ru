@@ -15,7 +15,7 @@ const Partners: NextPage = () => {
       Строительство. Отделка. Проектирование.'>
         <section className={styles.partnersPage}>
           <h1 className={styles.services__title}>
-                Партнеры ООО "ПоСтрой" | Строительство. 
+                Партнеры ООО «ПоСтрой» | Строительство. 
                 Отделка. Проектирование
           </h1>
           <ul className={styles.partnersPage__list}>

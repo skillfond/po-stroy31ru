@@ -60,7 +60,7 @@ const OurContacts: NextPage = () => {
         Строительство. Отделка. Проектирование.'> 
           <section className={styles.contacts}>
             <h1 className={styles.services__title}>
-              Контакты ООО "ПоСтрой" | Строительство. 
+              Контакты ООО «ПоСтрой» | Строительство. 
               Отделка. Проектирование
             </h1>
             <div className={styles.contacts__content}>
