@@ -32,7 +32,7 @@ const ProductHero: React.FC<ProductHeroProps> = ({ handleClickOpen }) => {
         marked="center" 
         sx={{ mb: 5, maxWidth: 1000 }}
         >
-          Cтроительно-отделочная компания Терминал-М | 
+          Cтроительно-отделочная компания ООО "ПоСтрой"| 
           Строительство. Отделка. Проектирование
       </Typography>
       <Typography
