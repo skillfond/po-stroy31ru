@@ -77,16 +77,7 @@ const images: IImages[] = [
         ],
         title: 'Здание под магазин',
         width: '27%',
-      },
-      {
-        id: "image7",
-        url: [
-          '/images/building-store-img.webp',
-          '/images/building-store-img.webp',
-          '/images/building-store-img-2.webp',
-          '/images/building-store-img-3.webp'
-        ],
-      },
+      }
 
 
 ]
