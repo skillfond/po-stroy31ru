@@ -27,7 +27,7 @@ const ProductHero: React.FC<ProductHeroProps> = ({ handleClickOpen }) => {
       <Typography 
         color="inherit" 
         align="center" 
-        variant="h2" 
+        variant="h3" 
         component="h1"
         marked="center" 
         sx={{ mb: 5, maxWidth: 1000 }}

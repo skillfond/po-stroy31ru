@@ -124,8 +124,8 @@ const Footer: React.FC = () => {
 						<li className={styles.footer__itemLink}>
 							<a
 								className={styles.footer__contactsLink}
-								href='mailto:bel.terminalm@yandex.ru'>
-								bel.terminalm@yandex.ru
+								href='mailto:postroy31@yandex.ru'>
+								postroy31@yandex.ru
 							</a>
 						</li>
 					</ul>
